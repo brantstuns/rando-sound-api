@@ -1,0 +1,16 @@
+{
+  "name": "rando-sound-api",
+  "version": "1.0.0",
+  "description": "the api for randobeat",
+  "main": "index.js",
+  "author": "Brant Stuns",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
